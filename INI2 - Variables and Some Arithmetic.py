@@ -5,7 +5,6 @@
 #Return: The integer corresponding to the square of the hypotenuse of the right triangle whose legs have lengths a and b.
   
   
-  
 # Given: 978 828
 
 #Run
